@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>KipKid&#39;s Blog</title>
-        <link>https://KipKid.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on KipKid&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 15 Jun 2024 12:37:40 +0900</lastBuildDate><atom:link href="https://KipKid.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 15 Jun 2024 12:37:40 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>KipKid</title>
+        <link>http://localhost:1313/post/contents/</link>
+        <pubDate>Sat, 15 Jun 2024 12:37:40 +0900</pubDate>
+        
+        <guid>http://localhost:1313/post/contents/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;안녕하세요 &lt;strong&gt;KipKid&lt;/strong&gt;입니다!&lt;/p&gt;
+&lt;p&gt;오늘은 처음으로 블로그를 작성하는 날이네요.&lt;/p&gt;
+&lt;p&gt;저는 보안을 공부하는 🐣 대학생입니다!&lt;/p&gt;
+&lt;p&gt;앞으로 열심히 공부해보겠습니다.&lt;/p&gt;
+&lt;p&gt;vistit the &lt;a class=&#34;link&#34; href=&#34;https://KipKid.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
